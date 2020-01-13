@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Apple Screen Recording.
+GIF created with Apple Screen Recording and converted to gif format using Convertio.
 
 ## Notes
 
