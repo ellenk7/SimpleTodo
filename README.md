@@ -20,10 +20,9 @@ The following **nice to have** features are implemented:
 * [ ] Your app should allow you to set items with a higher priority, and show it on the list.
 * [ ] Your app includes a improved UI (icons, styling, colors, etc.)
 
-## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Apple Screen Recording and converted to gif format using Convertio.
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
